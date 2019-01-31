@@ -1,0 +1,7 @@
+﻿  LoadShaders.cpp
+c:\users\rnldu\onedrive\바탕 화면\그래픽스\프젝5\7.3.cube_blending_glsl\7.3.cube_blending_glsl\7.3.cube_blending_glsl\shaders\loadshaders.cpp(11): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(207): note: 'fopen' 선언을 참조하십시오.
+  7.3.Cube_Blending_GLSL.cpp
+  코드를 생성하고 있습니다...
+  LINK : C:\Users\rnldu\OneDrive\바탕 화면\그래픽스\프젝5\7.3.Cube_Blending_GLSL\7.3.Cube_Blending_GLSL\Debug\7.3.Cube_Blending_GLSL.exe을(를) 찾을 수 없거나 마지막 증분 링크에 의해 빌드되지 않았습니다. 전체 링크를 수행하고 있습니다.
+  7.3.Cube_Blending_GLSL.vcxproj -> C:\Users\rnldu\OneDrive\바탕 화면\그래픽스\프젝5\7.3.Cube_Blending_GLSL\7.3.Cube_Blending_GLSL\Debug\7.3.Cube_Blending_GLSL.exe
